@@ -1,0 +1,9 @@
+# Data Science
+jupyter
+matplotlib
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
